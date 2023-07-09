@@ -1,1 +1,1 @@
-# rothko_painting
+# Rothko Painting
